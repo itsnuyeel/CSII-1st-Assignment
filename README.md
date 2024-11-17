@@ -4,7 +4,7 @@ This repository contains the solutions for the first assignment of the CS-II cou
 
 The repository is based on ROSALIND and it's structured as follows:
 
-## Bioninformatics Stronghold
+## Bioinformatics Stronghold
 
 From Bioinformatics Stronghold: dna (ex1), rna (ex2), revc (ex3), iprb (ex4), fib (ex5), gc (ex6), prot (ex7), subs (ex8), hamm (ex9).
 
